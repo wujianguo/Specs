@@ -18,7 +18,7 @@
     }
   ],
   "source": {
-    "http": "http://download.videolan.org/pub/cocoapods/MobileVLCKit-2.2.2.zip"
+    "http": "http://127.0.0.1:8000/MobileVLCKit-2.2.2.zip"
   },
   "ios": {
     "vendored_frameworks": "MobileVLCKit-binary/MobileVLCKit.framework"
